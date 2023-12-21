@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Memory Management Basics
-description: Understanding Reverse Mapping in Linux (Level 2 topic)
+description: Understanding the Memory Management from Linux Perspective
 date: 2023-12-12
 
 authors:
@@ -24,7 +24,7 @@ toc:
     # subsections:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
-  - name: Implementation Overview
+  - name: 
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
@@ -44,10 +44,7 @@ _styles: >
     font-size: 16px;
   }
 
-
 ---
 
-**NOTE:**
-I categrorize my writing based on the depth of the topic. 
-The depth implies the level of understanding the reader need to prior possess to understand the article.
-For Example: assume an article has a depth of "Level 2", it meant the user may find it hard to comprehend the article without understanding certain other article presented in the first level. 
+## The Need
+

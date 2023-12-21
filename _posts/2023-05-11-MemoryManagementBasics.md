@@ -24,7 +24,10 @@ toc:
     # subsections:
     #   - name: Example Child Subsection 1
     #   - name: Example Child Subsection 2
-  - name: 
+  - name: The Working Principle
+    subsections:
+        - name: The Data Structures
+        - name: The Problems
 
 # Below is an example of injecting additional post-specific styles.
 # If you use this post as a template, delete this _styles block.
@@ -48,3 +51,8 @@ _styles: >
 
 ## The Need
 
+## The Working Principle
+
+### The Data Structures
+
+### The Problems

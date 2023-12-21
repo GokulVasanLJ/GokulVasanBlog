@@ -1,12 +1,12 @@
 ---
 layout: distill
-title: Linux Reverse Mapping (RMap)
+title: Memory Management Basics
 description: Understanding Reverse Mapping in Linux (Level 2 topic)
-date: 2022-03-30
+date: 2023-12-12
 
 authors:
   - name: Gokul Vasan
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    url: "https://abstractcomputation.com"
     affiliations:
       name: TUKL, Germany
 
